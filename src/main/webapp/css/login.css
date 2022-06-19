@@ -1,0 +1,21 @@
+.box{
+	background-color:#ffffff;
+	width:400px;
+	height:350px;
+	/*外边距，左右设为auto就是居中*/
+	margin:100px auto;
+	/*内边距*/
+	padding:50px 30px;
+	/*设置圆角*/
+	border-radius:10px;
+	/*设置阴影*/
+	box-shadow: 5px 5px 20px #d4d3d3;
+}
+.title{
+	margin-bottom: 20px;
+	font-size: 20px;
+	color: gray;
+}
+.sub-btn{
+	margin:30px;
+}
